@@ -1,0 +1,4 @@
+.build/
+AutoTranslator.app/
+.DS_Store
+*.xcuserstate
